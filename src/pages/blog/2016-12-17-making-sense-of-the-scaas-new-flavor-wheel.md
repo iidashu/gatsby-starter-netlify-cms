@@ -10,7 +10,13 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+* あｓｄふぁさ
+
+```
+print("Hello");
+```
+
+![asdfas](/img/blog-index.jpg "asdfasas")
 
 日本語テキスト。
 
